@@ -15,6 +15,7 @@ This project walks through:
 ---
 
 ## 2&nbsp; Scenario (condensed)
+![Tcpdump log showing ICMP "udp port 53 unreachable" error](https://i.imgur.com/yCDNmrT.png)
 
 | Role | Detail |
 |------|--------|
